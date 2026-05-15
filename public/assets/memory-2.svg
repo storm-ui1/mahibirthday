@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#080815"/>
+      <stop offset=".48" stop-color="#241d3f"/>
+      <stop offset="1" stop-color="#f7a8b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g)"/>
+  <rect x="110" y="160" width="680" height="780" rx="46" fill="#0d111f" opacity=".74"/>
+  <g font-family="Poppins, sans-serif" font-size="36" fill="#fff7ed">
+    <rect x="170" y="245" width="360" height="72" rx="28" fill="#22375e"/>
+    <text x="204" y="294">that random</text>
+    <rect x="340" y="352" width="360" height="72" rx="28" fill="#7d445e"/>
+    <text x="374" y="401">good morning text</text>
+    <rect x="175" y="475" width="430" height="72" rx="28" fill="#24314f"/>
+    <text x="209" y="524">i still remember</text>
+    <rect x="280" y="600" width="370" height="72" rx="28" fill="#8b506d"/>
+    <text x="314" y="649">and smile :)</text>
+  </g>
+  <circle cx="704" cy="260" r="12" fill="#f7a8b8"/>
+</svg>
